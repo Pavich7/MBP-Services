@@ -1,3 +1,3 @@
-Builder 8.2.1 Released
-This update contains Bugfix Release. You can download in Preference > General.
-January 17, 2025
+Builder 8.3 Released
+This update contains Improvement Release. You can download in Preference > General.
+February 3, 2025
