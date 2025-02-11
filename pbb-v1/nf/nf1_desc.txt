@@ -1,1 +1,1 @@
-You can download latest update in GitHub Repository.
+This version is out of support, please update Builder.
