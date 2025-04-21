@@ -1,3 +1,3 @@
-Builder 9.2 released!
+Builder 9.3 released!
 You can update via Help > Check for Updates.
-April 14, 2025
+April 21, 2025
