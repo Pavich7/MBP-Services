@@ -1,4 +1,5 @@
-Builder 9.8.4 released!
+Builder 9.8.5 released!
 You can update via Help > Check for Updates.
-November 17, 2025
-https://github.com/Pavich7/P-Browser-Builder/releases/tag/9.8.4
+January 7, 2026
+https://github.com/Pavich7/P-Browser-Builder/releases/tag/9.8.5
+
